@@ -2,6 +2,11 @@
 #include <algorithm>
 #include <vector>
 
+#define all(v) ((v).begin()),((v).end())
+#define sz(v)  ((int)((v).size()))
+typedef vector<int> vi;
+typedef long long ll;
+
 using namespace std;
 
 int main()
